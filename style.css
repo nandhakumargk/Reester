@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+}
+
+ul,li{
+    display: inline;
+}
+
+li:hover{
+    cursor: pointer;
+    color: greenyellow;
+}
+
+.img{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    width: 207px;
+    display: inline-block;
+    
+}
+
+.receipe{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.img:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    padding: 20px;
+}
+
+.contact{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+}
+
+table{
+    margin-left: 43%;
+}
+
+.send{
+    width: 300px;
+}
